@@ -12,9 +12,4 @@ Run these commands:
 `npm install`
 
 `node app.js`
-hii
-meet here
-hii
-savaliya
-hii
-meet savaliya
+jenkins
